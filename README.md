@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ---
-
+(THIS HAS A WORKING EXE FILE FOR WINDOWS IN THE REPO)
 ## 📌 Project Overview
 
 **Connecto** is a self-hosted, browser-based peer-to-peer (P2P) file transfer and messaging tool designed for fast, secure local-network sharing. Inspired by the retro aesthetic of *Stranger Things'* Hawkins National Laboratory, it combines a stunning **CRT terminal UI** with powerful modern web technologies.
